@@ -29,10 +29,15 @@ start index.html
 
 ![Login Page Screenshot](screenshot.png)
 
+
 Author
+
 Gunjan Kosta
+
 GitHub: https://github.com/Gunjan-Kosta
+
 LinkedIn: https://www.linkedin.com/in/gunjan-kosta
 
 License
+
 This project is open-source and available under the MIT License.
